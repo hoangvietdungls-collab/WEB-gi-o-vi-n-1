@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Quản lý Dạy học Thông minh - THPT Tràng Định",
+  "description": "Hệ thống Quản lý Dạy học môn Hóa học dành cho Thầy Hoàng Việt Dũng - Trường THPT Tràng Định (Lạng Sơn)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
